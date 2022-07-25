@@ -1,0 +1,162 @@
+[
+     {
+          "Title": "Perfect Bet",
+          "Release Date": "Release date: 02-24-16",
+          "Rating": "4 out of 5 stars",
+          "Price": "20.99",
+          "Subtitle": "How Science and Math Are Taking the Luck out of Gambling",
+          "Author": "By: Adam Kucharski"
+     },
+     {
+          "Title": "Elon Musk",
+          "Release Date": "Release date: 05-19-15",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "36.50",
+          "Subtitle": "Tesla, SpaceX, and the Quest for a Fantastic Future",
+          "Author": "By: Ashlee Vance"
+     },
+     {
+          "Title": "Building Microservices",
+          "Release Date": "Release date: 02-09-22",
+          "Rating": "5 out of 5 stars",
+          "Price": "49.99",
+          "Subtitle": "Designing Fine-Grained Systems",
+          "Author": "By: Sam Newman"
+     },
+     {
+          "Title": "The Book",
+          "Release Date": "Release date: 04-30-19",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "17.49",
+          "Subtitle": "A Cover-To-Cover Exploration of the Most Powerful Object of Our Time",
+          "Author": "By: Keith Houston"
+     },
+     {
+          "Title": "Python - The Bible: 3 Manuscripts in 1 Book",
+          "Release Date": "Release date: 11-02-19",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "24.95",
+          "Subtitle": "Python Programming for Beginners - Python Programming for Intermediates - Python Programming for Advanced",
+          "Author": "By: Maurice J. Thompson"
+     },
+     {
+          "Title": "The Metaverse Handbook",
+          "Release Date": "Release date: 07-18-22",
+          "Rating": "5 out of 5 stars",
+          "Price": "13.99",
+          "Subtitle": "Innovating for the Internet's Next Tectonic Shift",
+          "Author": "By: QuHarrison Terry, Scott \"DJ SKEE\" Keeney"
+     },
+     {
+          "Title": "Coding Languages for Absolute Beginners: 6 Books in 1",
+          "Release Date": "Release date: 12-26-18",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "19.95",
+          "Subtitle": "Arduino, C++, C#, Powershell, Python & SQL",
+          "Author": "By: Zach Webber"
+     },
+     {
+          "Title": "Facebook",
+          "Release Date": "Release date: 02-25-20",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "38.50",
+          "Subtitle": "The Inside Story",
+          "Author": "By: Steven Levy"
+     },
+     {
+          "Title": "Hacking: 3 Books in 1: A Beginners Guide for Hackers",
+          "Release Date": "Release date: 04-20-20",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "24.95",
+          "Subtitle": "How to Hack Websites, Smartphones, Wireless Networks + Linux Basic for Hackers (Command Line and All the Essentials) + Hacking with Kali Linux",
+          "Author": "By: Julian James McKinnon"
+     },
+     {
+          "Title": "NFT (Non Fungible Tokens) Investing Guide for Beginners to Advance 2022 & Beyond",
+          "Release Date": "Release date: 07-05-22",
+          "Rating": "5 out of 5 stars",
+          "Price": "14.95",
+          "Subtitle": "NFTs Handbook for Artists, Real Estate & Crypto Art, Buying, Flipping ... to Advanced The Ultimate Handbook 4",
+          "Author": "By: NFT Trending Crypto Art"
+     },
+     {
+          "Title": "The KCNA Book",
+          "Release Date": "Release date: 03-30-22",
+          "Rating": "5 out of 5 stars",
+          "Price": "19.95",
+          "Subtitle": "Regular price:",
+          "Author": "By: Nigel Poulton"
+     },
+     {
+          "Title": "Social Media Marketing Agency",
+          "Release Date": "Release date: 05-13-22",
+          "Rating": "5 out of 5 stars",
+          "Price": "14.95",
+          "Subtitle": "The Best F--king Business Model Book to Creating a $10,000 and More per Month SMMA with Facebook Advertisements, Automated Systems, Retainers, and Closing Clients",
+          "Author": "By: Daniel Capwell"
+     },
+     {
+          "Title": "The Book of Satoshi",
+          "Release Date": "Release date: 04-20-15",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "19.95",
+          "Subtitle": "The Collected Writings of Bitcoin Creator Satoshi Nakamoto, 1st Edition",
+          "Author": "By: Phil Champagne"
+     },
+     {
+          "Title": "Lean UX",
+          "Release Date": "Release date: 02-25-22",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "39.99",
+          "Subtitle": "Designing Great Products with Agile Teams",
+          "Author": "By: Jeff Gothelf, Josh Seiden"
+     },
+     {
+          "Title": "How to Be Fine",
+          "Release Date": "Release date: 03-17-20",
+          "Rating": "4 out of 5 stars",
+          "Price": "20.52",
+          "Subtitle": "What We Learned by Living by the Rules of 50 Self-Help Books",
+          "Author": "By: Jolenta Greenberg, Kristen Meinzer"
+     },
+     {
+          "Title": "The Product Book",
+          "Release Date": "Release date: 01-30-19",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "19.95",
+          "Subtitle": "How to Become a Great Product Manager",
+          "Author": "By: Product School, Carlos Gonz\u00e1lez de Villaumbrosia, Josh Anon"
+     },
+     {
+          "Title": "Social Media Marketing for Small Business 2022",
+          "Release Date": "Release date: 04-26-22",
+          "Rating": "5 out of 5 stars",
+          "Price": "29.95",
+          "Subtitle": "6 Books in 1: The Best Guide for Beginners to Master and Make Money with Youtube, Facebook, Tiktok, Google and SEO",
+          "Author": "By: Kelly Lee"
+     },
+     {
+          "Title": "Genius Makers",
+          "Release Date": "Release date: 03-16-21",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "28.00",
+          "Subtitle": "The Mavericks Who Brought AI to Google, Facebook, and the World",
+          "Author": "By: Cade Metz"
+     },
+     {
+          "Title": "The Metaverse",
+          "Release Date": "Release date: 07-19-22",
+          "Rating": "4 out of 5 stars",
+          "Price": "31.49",
+          "Subtitle": "And How It Will Revolutionize Everything",
+          "Author": "By: Matthew Ball"
+     },
+     {
+          "Title": "CISSP Exam Study Guide for Cybersecurity Professionals",
+          "Release Date": "Release date: 11-19-21",
+          "Rating": "4.5 out of 5 stars",
+          "Price": "29.95",
+          "Subtitle": "Novice to Expert: 4 Books In 1: Beginners Guide to Incident Management, NIST Cybersecurity Framework, Ethics and Risk Management Governance",
+          "Author": "By: Hugo Hoffman"
+     }
+]
